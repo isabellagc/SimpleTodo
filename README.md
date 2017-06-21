@@ -37,7 +37,7 @@ option so easy fix! backed me up abour half an hour though...
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2017] [Isabella Garcia-Camargo]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
